@@ -1,0 +1,20 @@
+# Build folders
+target/
+build/
+.gradle/
+
+# IDE files
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+*.iws
+
+# System and logs
+.DS_Store
+Thumbs.db
+*.log
+
+
+*.metadata
